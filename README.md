@@ -11,7 +11,7 @@
 Take a look at the shiny dashboard and the twitter bot.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgoogle.com&up_message=dashboard&up_color=neon&down_message=dashboard&down_color=neon&label=shiny)](https://waitasecant.shinyapps.io/myapp)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/delhiAirQuality?label=Follow%20%40delhiAirQuality)](https://twitter.com/intent/follow?screen_name=delhiairquality)
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdelhiairquality&label=DelhiAirQuality)](https://twitter.com/intent/follow?screen_name=delhiairquality)
 
 ```julia
 himanshu = {
