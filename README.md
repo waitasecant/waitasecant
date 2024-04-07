@@ -24,6 +24,7 @@ himanshu = {
         data-scraping : ['bs4', 'selenium'],
         automation: ['github-actions'],
         databases: ['sqlite'],
+        containers: ['docker']
     },
     funFact : 'There are two ways to write error-free programs; only the third one works'
 }
