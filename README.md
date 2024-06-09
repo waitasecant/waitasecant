@@ -1,6 +1,6 @@
 ## Hi I'm Himanshu <img src="https://media.tenor.com/ayW7x9oAjncAAAAj/after-effects-running.gif" width="50">
 
-*I am a first year data science student at Chennai Mathematical Institute <img src="https://pbs.twimg.com/media/GIJTGMtXUAEr0eG?format=png&name=120x120" width="30">*
+*I am a final year data science student at Chennai Mathematical Institute <img src="https://pbs.twimg.com/media/GIJTGMtXUAEr0eG?format=png&name=120x120" width="30">*
 
 *I am passionate about building utilities using data addressing real-world problems.*
 
@@ -22,6 +22,7 @@ himanshu = {
             R: ['shiny']
         },
         data-scraping : ['bs4', 'selenium'],
+        data-manipulation : ['pyspark', 'pandas'],
         automation: ['github-actions'],
         databases: ['sqlite'],
         containers: ['docker']
