@@ -22,8 +22,8 @@ himanshu = {
             R: ['shiny']
         },
         data-scraping : ['bs4', 'selenium'],
-        data-manipulation : ['pyspark', 'pandas'],
-        automation: ['github-actions'],
+        data-manipulation : ['sql', 'pyspark', 'pandas'],
+        automation: ['github-actions', 'appveyor'],
         databases: ['sqlite'],
         containers: ['docker']
     },
